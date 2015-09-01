@@ -2,6 +2,8 @@
 *.apk
 *.ap_
 RxAndroidSample.iml
+RxAS.iml
+app/app.iml
 
 # Files for the Dalvik VM
 *.dex
